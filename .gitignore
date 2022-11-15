@@ -4,3 +4,12 @@
 # Ignore labelImg files
 labelImg
 
+moonenv
+
+ml-model-workspace
+
+misc
+
+auto-particle-classification
+
+tensorflow
