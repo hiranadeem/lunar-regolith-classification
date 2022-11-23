@@ -26,12 +26,12 @@ file_num = 1
 # cropped image directory
 # crop_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/apollo_11/test/test_crop/"
 # crop_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/apollo_14/crop_a_512/"
-crop_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/apollo_14/crop_b_512/"
+crop_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/test/"
 
 # iterate through all images in order in the data folder and crop them. Output the cropped image
 # folder_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/apollo_11/test/"
 # folder_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/apollo_14/A/"
-folder_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/apollo_14/B/"
+folder_dir = "/Users/hiranadeem/Documents/Thesis/apollo_imgs/test/"
 
 img_num = 0 # count number of images 
 count = 0
