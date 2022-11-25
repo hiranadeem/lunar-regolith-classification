@@ -1,4 +1,7 @@
-'''This program augments images from the ALSCC dataset '''
+'''This program augments images from the ALSCC dataset 
+Code from: https://alex-vaith.medium.com/save-precious-time-with-image-augmentation-in-object-detection-tasks-2f9111abb851
+'''
+
 import cv2 as cv
 import os
 import pandas as pd
